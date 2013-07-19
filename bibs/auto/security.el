@@ -155,5 +155,7 @@
      "metacaptchaurl"
      "mongodb"
      "akismet"
-     "spamassassin")))
+     "spamassassin"
+     "shi2011privacy"
+     "rastogi2010differentially")))
 
