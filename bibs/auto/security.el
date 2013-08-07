@@ -155,5 +155,11 @@
      "metacaptchaurl"
      "mongodb"
      "akismet"
-     "spamassassin")))
+     "spamassassin"
+     "abdul1998distributed"
+     "gkoulalas2010providing"
+     "brickell2004direct"
+     "samarati1998protecting"
+     "qilin"
+     "castelluccia2005efficient")))
 
